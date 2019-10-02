@@ -1,0 +1,11 @@
+C:\Users\Marcin\source\repos\wyniki_suma\wyniki_suma\bin\Debug\netcoreapp3.0\wyniki_suma.exe
+C:\Users\Marcin\source\repos\wyniki_suma\wyniki_suma\bin\Debug\netcoreapp3.0\wyniki_suma.deps.json
+C:\Users\Marcin\source\repos\wyniki_suma\wyniki_suma\bin\Debug\netcoreapp3.0\wyniki_suma.runtimeconfig.json
+C:\Users\Marcin\source\repos\wyniki_suma\wyniki_suma\bin\Debug\netcoreapp3.0\wyniki_suma.runtimeconfig.dev.json
+C:\Users\Marcin\source\repos\wyniki_suma\wyniki_suma\bin\Debug\netcoreapp3.0\wyniki_suma.dll
+C:\Users\Marcin\source\repos\wyniki_suma\wyniki_suma\bin\Debug\netcoreapp3.0\wyniki_suma.pdb
+C:\Users\Marcin\source\repos\wyniki_suma\wyniki_suma\obj\Debug\netcoreapp3.0\wyniki_suma.csprojAssemblyReference.cache
+C:\Users\Marcin\source\repos\wyniki_suma\wyniki_suma\obj\Debug\netcoreapp3.0\wyniki_suma.AssemblyInfoInputs.cache
+C:\Users\Marcin\source\repos\wyniki_suma\wyniki_suma\obj\Debug\netcoreapp3.0\wyniki_suma.AssemblyInfo.cs
+C:\Users\Marcin\source\repos\wyniki_suma\wyniki_suma\obj\Debug\netcoreapp3.0\wyniki_suma.dll
+C:\Users\Marcin\source\repos\wyniki_suma\wyniki_suma\obj\Debug\netcoreapp3.0\wyniki_suma.pdb
